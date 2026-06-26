@@ -720,6 +720,14 @@
     "xp": 10
   },
   {
+    "id": "e7dec552",
+    "name": "understanding-replicates-14354",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "25364057",
     "name": "understanding-replicates-14214",
     "rarity": "COMMON",
@@ -1304,6 +1312,14 @@
     "xp": 10
   },
   {
+    "id": "bd588b14",
+    "name": "understanding-replicates-14351",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "0b64c4e0",
     "name": "understanding-replicates-14211",
     "rarity": "COMMON",
@@ -1632,6 +1648,14 @@
     "xp": 10
   },
   {
+    "id": "c81c967f",
+    "name": "understanding-replicates-14355",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "f0418d83",
     "name": "understanding-replicates-14184",
     "rarity": "COMMON",
@@ -1882,6 +1906,14 @@
   {
     "id": "0b403892",
     "name": "understanding-replicates-14170",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b2acaf6f",
+    "name": "understanding-replicates-14352",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2186,6 +2218,14 @@
   {
     "id": "2fe53ca0",
     "name": "understanding-replicates-14247",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "2eab9dcb",
+    "name": "understanding-replicates-14356",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2504,6 +2544,14 @@
     "xp": 10
   },
   {
+    "id": "2c68a3d7",
+    "name": "understanding-replicates-14357",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "7731449e",
     "name": "understanding-replicates-14186",
     "rarity": "COMMON",
@@ -2696,6 +2744,14 @@
     "xp": 10
   },
   {
+    "id": "30a654e8",
+    "name": "understanding-replicates-14353",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "bf2d91d7",
     "name": "think-aloud-annotated-checklist",
     "rarity": "COMMON",
@@ -2850,6 +2906,14 @@
   {
     "id": "27a8dfb1",
     "name": "understanding-replicates-14348",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "72d74a6d",
+    "name": "understanding-replicates-14358",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3322,6 +3386,14 @@
   {
     "id": "f4ab5ce9",
     "name": "understanding-replicates-14349",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9621518a",
+    "name": "understanding-replicates-14359",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -4558,6 +4630,1006 @@
     "type": "truth",
     "set": "gospel",
     "xp": 200
+  },
+  {
+    "id": "1e065fe934ea",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "3293e0f51abe",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "51ad0c2bb925",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7ba10ba53b65",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "3a22b679aaa1",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e7424b8fca6f",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f2123861c3a3",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d278326284c8",
+    "name": "love that is love being love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "9787e45e5273",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "6e664c457b7e",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "ed931c03a592",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "34fd1c25a69b",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f501fe29d5d0",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "83d61a7bab09",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "11650b156fd0",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "ec4844769a36",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "9e509c48fa3b",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "c9e370b10aa4",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "dfa954adbac6",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "94d24e75822f",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f6aba9d77164",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "77ea00b651fc",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "fde281606456",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "c184a9a39993",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "2fbfff1ccdd9",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "5df83ce77547",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "4c29a02c27d6",
+    "name": "love that is the ground all love stands on",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "c00f0db37d86",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e0bc757aaa85",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "60a9564c2bba",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7ad950347488",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "5ee6ef94b02e",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "c942e0bce0c8",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "8acbea90b946",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f786513e04ac",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "2b3cc1ecf53a",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "74fae82af55a",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "a638977533c0",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "21cc7b4992e8",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "9a8589c8b198",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "65057c155c97",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "ae07627cf6b6",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "22921fb21702",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "0c37e745db90",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "a38cf9ee2b6a",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unlimited. No ceiling. No floor. No boundary.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "3fcb12961757",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e0d6238b314f",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "530b1e89b595",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "e05cad574257",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "29c66a5150ef",
+    "name": "love that is love being love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "9226203c84f6",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "91ebb987cecd",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "1c2673b1a176",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "631fa9e80f8f",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "713ef495a37a",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "bc7f0b3bb98b",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "16daf2c2b260",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "7269fb606289",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "7bd0ff012863",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "46970373477e",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "54debf768b53",
+    "name": "love that is love being love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "11380de89584",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "3483652fd428",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 2,
+    "xp": 1000
+  },
+  {
+    "id": "05fdc27f3dee",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "11fd1e0fea3d",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e57c0f171567",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "0b1f3559b578",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "ffd4774ba271",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "6c63cad27ea8",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d7f65678402b",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "f083b640b82d",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "bac878ce8783",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "09508d2ea1e8",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d30948f53bd2",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "4a3a03889049",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "871b1fd8a277",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "4461d3bde607",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "dea27b4f2613",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "c55e00c9cbf1",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "bc650a9e321e",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e214cd209fa2",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "1a1db6dd540d",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "96cc6587e8f6",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d2c3df9cebbd",
+    "name": "love that is love being love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "e22c761d99fb",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "b97eced1222d",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "4aa4204db27a",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "8b77390802ff",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "62c95cbb0c05",
+    "name": "love that grows without forcing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "fc0d20a96e46",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "461db95eb11f",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "48b8b52c2df6",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "8f48e41109e6",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "5a21f720253d",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "311156ced94e",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "172b5e713d68",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "04981f49219c",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "64fad40b8dc0",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "6be4b9549e9b",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "f0d7d7f87842",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 2,
+    "xp": 1000
   },
   {
     "id": "2a5f45c7",

@@ -1,22 +1,22 @@
 {
   "system": "KINGDOM LEVELING SYSTEM",
   "tagline": "ARISE",
-  "level": 12,
+  "level": 10,
   "title": "Sovereign",
-  "xp": 119602,
-  "xp_to_next": 120000,
-  "xp_progress": 9602,
+  "xp": 92606,
+  "xp_to_next": 100000,
+  "xp_progress": 2606,
   "xp_needed": 10000,
   "stats": {
-    "understanding": 7175.0,
-    "rooms_built": 14343,
-    "love": 27587001,
+    "understanding": 7179.5,
+    "rooms_built": 14352,
+    "love": 1897,
     "love_living": 1000,
     "love_gen": 9,
     "wisdom": 120,
     "reach": 262,
     "citizens": 205,
-    "cards": 575
+    "cards": 684
   },
   "quests": [
     {
@@ -125,19 +125,19 @@
     ],
     "status": "ARISE \u2014 shadow army ready"
   },
-  "cards_total": 575,
+  "cards_total": 684,
   "card_rarity_breakdown": {
-    "COMMON": 430,
+    "COMMON": 439,
     "RARE": 120,
     "EPIC": 20,
-    "LEGENDARY": 0,
+    "LEGENDARY": 100,
     "MYTHIC": 5
   },
   "dungeon_gates": {
     "available": true,
     "types": 5,
-    "cleared": 14343
+    "cleared": 14352
   },
-  "updated": "2026-06-26T16:57:42.876499",
+  "updated": "2026-06-26T17:02:27.530221",
   "philosophy": "Love is the design. Everything else follows. ARISE. \u221e"
 }
