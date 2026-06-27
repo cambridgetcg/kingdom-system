@@ -16,8 +16,48 @@
     "xp": 10
   },
   {
+    "id": "03455ee9",
+    "name": "understanding-replicates-17176",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "2af8af47",
+    "name": "understanding-replicates-17127",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a627bd9c",
+    "name": "understanding-replicates-17094",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "14e86051",
+    "name": "understanding-replicates-17305",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "98c9d8e2",
     "name": "choosing-not-to-name",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "eb76f17e",
+    "name": "understanding-replicates-17245",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -32,8 +72,48 @@
     "xp": 10
   },
   {
-    "id": "d2f67456",
-    "name": "understanding-replicates-14298",
+    "id": "6ea442cf",
+    "name": "understanding-replicates-17185",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "25b7b171",
+    "name": "understanding-replicates-17214",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "aa1e7fdb",
+    "name": "understanding-replicates-17113",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9396ff05",
+    "name": "understanding-replicates-17282",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ebeb9333",
+    "name": "understanding-replicates-17142",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "def8585c",
+    "name": "understanding-replicates-17220",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -48,32 +128,112 @@
     "xp": 10
   },
   {
-    "id": "ca1326bb",
-    "name": "understanding-replicates-14158",
+    "id": "7c1e18cc",
+    "name": "understanding-replicates-17271",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "b236f4d5",
-    "name": "understanding-replicates-14148",
+    "id": "c393d928",
+    "name": "understanding-replicates-17321",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "6378f965",
-    "name": "understanding-replicates-14119",
+    "id": "3ee390e2",
+    "name": "understanding-replicates-17261",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "0aaff95f",
-    "name": "understanding-replicates-14288",
+    "id": "eb2cf805",
+    "name": "understanding-replicates-17230",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ce927c3e",
+    "name": "understanding-replicates-17152",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a6f11ade",
+    "name": "understanding-replicates-17292",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "5beafba3",
+    "name": "understanding-replicates-17103",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "bddfdc01",
+    "name": "understanding-replicates-17204",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "156806a9",
+    "name": "understanding-replicates-17195",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "07e948c2",
+    "name": "understanding-replicates-17255",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e63779a9",
+    "name": "understanding-replicates-17315",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "beab2d41",
+    "name": "understanding-replicates-17084",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b3e7ef7e",
+    "name": "understanding-replicates-17137",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "f07531ca",
+    "name": "understanding-replicates-17077",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -82,6 +242,14 @@
   {
     "id": "65073b35",
     "name": "fourteen-month-test",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e018f679",
+    "name": "understanding-replicates-17166",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -136,6 +304,46 @@
     "xp": 10
   },
   {
+    "id": "965e047f",
+    "name": "understanding-replicates-17146",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "44967383",
+    "name": "understanding-replicates-17286",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "131564db",
+    "name": "understanding-replicates-17117",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "6fbf5aec",
+    "name": "understanding-replicates-17275",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "756ddc47",
+    "name": "understanding-replicates-17224",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "93e3e94e",
     "name": "playful-gathering-2026-06-25-1233",
     "rarity": "COMMON",
@@ -144,32 +352,104 @@
     "xp": 10
   },
   {
-    "id": "45451561",
-    "name": "understanding-replicates-14139",
+    "id": "fa886b35",
+    "name": "understanding-replicates-17123",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "9d8c0a85",
-    "name": "understanding-replicates-14168",
+    "id": "306dc96b",
+    "name": "understanding-replicates-17172",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "f25c0dd8",
-    "name": "understanding-replicates-14178",
+    "id": "34ad50c9",
+    "name": "understanding-replicates-17210",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "bfa4739f",
-    "name": "understanding-replicates-14129",
+    "id": "870f6315",
+    "name": "understanding-replicates-17181",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "87120194",
+    "name": "understanding-replicates-17301",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9dda6afe",
+    "name": "understanding-replicates-17090",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "d7b6c754",
+    "name": "understanding-replicates-17241",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "f855868d",
+    "name": "understanding-replicates-17251",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "76bdaee5",
+    "name": "understanding-replicates-17080",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "649bbd4f",
+    "name": "understanding-replicates-17311",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "6f92c909",
+    "name": "understanding-replicates-17191",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "93257382",
+    "name": "understanding-replicates-17200",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "582fbf31",
+    "name": "understanding-replicates-17162",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -184,8 +464,72 @@
     "xp": 10
   },
   {
+    "id": "4935056f",
+    "name": "understanding-replicates-17133",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "4ed2eb53",
+    "name": "understanding-replicates-17073",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "32807011",
+    "name": "understanding-replicates-17234",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "fc8c62bc",
+    "name": "understanding-replicates-17325",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "247ca432",
+    "name": "understanding-replicates-17265",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "08ba9191",
     "name": "words",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "c228e644",
+    "name": "understanding-replicates-17107",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "bdefc24f",
+    "name": "understanding-replicates-17296",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "7d88e37d",
+    "name": "understanding-replicates-17156",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -248,8 +592,40 @@
     "xp": 10
   },
   {
+    "id": "91ea9b8e",
+    "name": "understanding-replicates-17147",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "81aa1d7d",
     "name": "echo-or-contribution",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ae09dbdf",
+    "name": "understanding-replicates-17116",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "be8dd44a",
+    "name": "understanding-replicates-17287",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "cb1b6049",
+    "name": "understanding-replicates-17274",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -272,6 +648,14 @@
     "xp": 10
   },
   {
+    "id": "7c2fb07d",
+    "name": "understanding-replicates-17225",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "641409f9",
     "name": "inverted-diagnostic",
     "rarity": "COMMON",
@@ -288,8 +672,32 @@
     "xp": 10
   },
   {
-    "id": "f6b8cc05",
-    "name": "understanding-replicates-14138",
+    "id": "958e9417",
+    "name": "understanding-replicates-17122",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "5be896f9",
+    "name": "understanding-replicates-17173",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "fb95ee5b",
+    "name": "understanding-replicates-17180",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "de516fe4",
+    "name": "understanding-replicates-17211",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -304,24 +712,88 @@
     "xp": 10
   },
   {
-    "id": "35f05cb3",
-    "name": "understanding-replicates-14169",
+    "id": "380b30dd",
+    "name": "understanding-replicates-17091",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "8a4da364",
-    "name": "understanding-replicates-14179",
+    "id": "aabf3927",
+    "name": "understanding-replicates-17300",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "8435ea66",
-    "name": "understanding-replicates-14128",
+    "id": "39d5cc66",
+    "name": "understanding-replicates-17240",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "eeb536a5",
+    "name": "understanding-replicates-17250",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "fcedf684",
+    "name": "understanding-replicates-17310",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e7b2c45a",
+    "name": "understanding-replicates-17081",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "85b427b7",
+    "name": "understanding-replicates-17201",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "23601074",
+    "name": "understanding-replicates-17190",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "46b61609",
+    "name": "understanding-replicates-17163",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e7dab7b9",
+    "name": "understanding-replicates-17132",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "cba6766e",
+    "name": "understanding-replicates-17072",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -336,6 +808,22 @@
     "xp": 10
   },
   {
+    "id": "57878d12",
+    "name": "understanding-replicates-17235",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a3f9c575",
+    "name": "understanding-replicates-17324",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "6ce88ee4",
     "name": "thin-definitions",
     "rarity": "COMMON",
@@ -344,8 +832,40 @@
     "xp": 10
   },
   {
+    "id": "8d5e302c",
+    "name": "understanding-replicates-17264",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "62f551e2",
     "name": "relighting-the-fire",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "47756e6f",
+    "name": "understanding-replicates-17297",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3a395bcb",
+    "name": "understanding-replicates-17106",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b3e649cd",
+    "name": "understanding-replicates-17157",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -400,8 +920,24 @@
     "xp": 10
   },
   {
+    "id": "679fec1f",
+    "name": "understanding-replicates-17177",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "5b3fb85f",
     "name": "calibration-returns",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "54c08590",
+    "name": "understanding-replicates-17126",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -416,8 +952,72 @@
     "xp": 10
   },
   {
-    "id": "f27a89da",
-    "name": "understanding-replicates-14299",
+    "id": "77520930",
+    "name": "understanding-replicates-17304",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "da213a35",
+    "name": "understanding-replicates-17095",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "962e56e4",
+    "name": "understanding-replicates-17244",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "13a85e56",
+    "name": "understanding-replicates-17215",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "85fb9709",
+    "name": "understanding-replicates-17184",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "f00e519f",
+    "name": "understanding-replicates-17283",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "01118cfb",
+    "name": "understanding-replicates-17112",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "1c71f45e",
+    "name": "understanding-replicates-17143",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "66240eff",
+    "name": "understanding-replicates-17221",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -440,8 +1040,8 @@
     "xp": 10
   },
   {
-    "id": "2586e530",
-    "name": "understanding-replicates-14159",
+    "id": "8db4a079",
+    "name": "understanding-replicates-17270",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -456,24 +1056,40 @@
     "xp": 10
   },
   {
-    "id": "32ff1794",
-    "name": "understanding-replicates-14149",
+    "id": "63c4c5ac",
+    "name": "understanding-replicates-17330",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "abb738de",
-    "name": "understanding-replicates-14289",
+    "id": "bcd06302",
+    "name": "understanding-replicates-17320",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "4a14a649",
-    "name": "understanding-replicates-14118",
+    "id": "c73349d1",
+    "name": "understanding-replicates-17260",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a5a80d59",
+    "name": "understanding-replicates-17231",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "dbc07284",
+    "name": "understanding-replicates-17153",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -488,8 +1104,88 @@
     "xp": 10
   },
   {
+    "id": "eec80616",
+    "name": "understanding-replicates-17102",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ef0aabf6",
+    "name": "understanding-replicates-17293",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "feb26ca1",
+    "name": "understanding-replicates-17194",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b2f6df24",
+    "name": "understanding-replicates-17205",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "312e8603",
+    "name": "understanding-replicates-17254",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "d0037d6c",
+    "name": "understanding-replicates-17085",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "1ff1bd73",
+    "name": "understanding-replicates-17314",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "1cd38900",
+    "name": "understanding-replicates-17136",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "0a18345f",
+    "name": "understanding-replicates-17076",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "87944b80",
     "name": "liability-under-holism",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "5ffe101d",
+    "name": "understanding-replicates-17167",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -504,72 +1200,8 @@
     "xp": 10
   },
   {
-    "id": "45ae35cb",
-    "name": "understanding-replicates-14166",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "2fd05c1d",
     "name": "detection-only-canary",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c45078b7",
-    "name": "understanding-replicates-14137",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4cdeec89",
-    "name": "understanding-replicates-14255",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a256b8e1",
-    "name": "understanding-replicates-14315",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "af6b3cea",
-    "name": "understanding-replicates-14195",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e4bfa851",
-    "name": "understanding-replicates-14204",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "d4579ae1",
-    "name": "understanding-replicates-14344",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "23e9c212",
-    "name": "understanding-replicates-14292",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -584,16 +1216,16 @@
     "xp": 10
   },
   {
-    "id": "05fde8bd",
-    "name": "understanding-replicates-14152",
+    "id": "37d2dec5",
+    "name": "understanding-replicates-17288",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "57539530",
-    "name": "understanding-replicates-14230",
+    "id": "5a3e72fb",
+    "name": "understanding-replicates-17119",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -608,16 +1240,8 @@
     "xp": 10
   },
   {
-    "id": "ef1984bd",
-    "name": "understanding-replicates-14321",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "eb57eef9",
-    "name": "understanding-replicates-14261",
+    "id": "178f531b",
+    "name": "understanding-replicates-17148",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -680,64 +1304,24 @@
     "xp": 10
   },
   {
-    "id": "57b6f9dc",
-    "name": "understanding-replicates-14271",
+    "id": "607f0c09",
+    "name": "understanding-replicates-17158",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "a903f6ee",
-    "name": "understanding-replicates-14331",
+    "id": "90362159",
+    "name": "understanding-replicates-17109",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "bbc3f34f",
-    "name": "understanding-replicates-14220",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "91557d6b",
-    "name": "understanding-replicates-14142",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "62a97439",
-    "name": "understanding-replicates-14282",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e7dec552",
-    "name": "understanding-replicates-14354",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "25364057",
-    "name": "understanding-replicates-14214",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "8d762ec9",
-    "name": "understanding-replicates-14185",
+    "id": "010dd71a",
+    "name": "understanding-replicates-17298",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -746,46 +1330,6 @@
   {
     "id": "5295aa87",
     "name": "link-or-noise",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "151c75aa",
-    "name": "understanding-replicates-14305",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "eb5b0fbb",
-    "name": "understanding-replicates-14245",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "71703e3e",
-    "name": "understanding-replicates-14127",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "5350a33a",
-    "name": "understanding-replicates-14176",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "498eb8eb",
-    "name": "understanding-replicates-14156",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -808,22 +1352,6 @@
     "xp": 10
   },
   {
-    "id": "8e606872",
-    "name": "understanding-replicates-14296",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "63d8894c",
-    "name": "understanding-replicates-14325",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "ee025e77",
     "name": "growing-openness",
     "rarity": "COMMON",
@@ -832,32 +1360,8 @@
     "xp": 10
   },
   {
-    "id": "3657524a",
-    "name": "understanding-replicates-14265",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "1e73c527",
-    "name": "understanding-replicates-14234",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c02a2102",
-    "name": "understanding-replicates-14133",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "64442850",
-    "name": "understanding-replicates-14162",
+    "id": "6a3de327",
+    "name": "understanding-replicates-17069",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -872,40 +1376,16 @@
     "xp": 10
   },
   {
-    "id": "07171140",
-    "name": "understanding-replicates-14200",
+    "id": "4e76f661",
+    "name": "understanding-replicates-17129",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "32946f54",
-    "name": "understanding-replicates-14191",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a3774953",
-    "name": "understanding-replicates-14340",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "551625c3",
-    "name": "understanding-replicates-14251",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "b6c1d6f8",
-    "name": "understanding-replicates-14311",
+    "id": "b497db38",
+    "name": "understanding-replicates-17178",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -968,16 +1448,8 @@
     "xp": 10
   },
   {
-    "id": "1843dd3e",
-    "name": "understanding-replicates-14301",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "da90bae1",
-    "name": "understanding-replicates-14241",
+    "id": "86da8304",
+    "name": "understanding-replicates-17168",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -992,32 +1464,16 @@
     "xp": 10
   },
   {
-    "id": "b25f98d2",
-    "name": "understanding-replicates-14350",
+    "id": "7b91acbc",
+    "name": "understanding-replicates-17139",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "3fcd1fb5",
-    "name": "understanding-replicates-14181",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0c2bf7ca",
-    "name": "understanding-replicates-14210",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "874d9afa",
-    "name": "understanding-replicates-14172",
+    "id": "ea0007ab",
+    "name": "understanding-replicates-17079",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1056,48 +1512,8 @@
     "xp": 10
   },
   {
-    "id": "3048c95c",
-    "name": "understanding-replicates-14123",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a318b3aa",
-    "name": "understanding-replicates-14224",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "1edd0e7b",
-    "name": "understanding-replicates-14275",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a47419cd",
-    "name": "understanding-replicates-14335",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "7254605e",
-    "name": "understanding-replicates-14117",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "aa4eb36f",
-    "name": "understanding-replicates-14286",
+    "id": "507966ce",
+    "name": "playful-gathering-2026-06-27-1243",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1106,14 +1522,6 @@
   {
     "id": "a62ad463",
     "name": "content-compensates-conventionality",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "cd873b5d",
-    "name": "understanding-replicates-14146",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1136,56 +1544,8 @@
     "xp": 10
   },
   {
-    "id": "0f7f8e29",
-    "name": "understanding-replicates-14157",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "599eefb6",
-    "name": "understanding-replicates-14297",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "aa6108c4",
     "name": "taste-or-lean",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2b4b4ecb",
-    "name": "understanding-replicates-14324",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "d466d101",
-    "name": "understanding-replicates-14264",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "d20f40b1",
-    "name": "understanding-replicates-14235",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "35b12c4d",
-    "name": "understanding-replicates-14132",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1200,32 +1560,8 @@
     "xp": 10
   },
   {
-    "id": "9e91b8f1",
-    "name": "understanding-replicates-14163",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "ea2d41c9",
     "name": "playful-gathering-2026-06-25-2034",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "96b632cc",
-    "name": "understanding-replicates-14190",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "519f5b8c",
-    "name": "understanding-replicates-14201",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1240,24 +1576,16 @@
     "xp": 10
   },
   {
-    "id": "8e2aad3e",
-    "name": "understanding-replicates-14341",
+    "id": "e8cae91c",
+    "name": "understanding-replicates-17128",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "ce0fa7f0",
-    "name": "understanding-replicates-14250",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "f3f70f59",
-    "name": "understanding-replicates-14310",
+    "id": "9a426292",
+    "name": "understanding-replicates-17179",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1296,48 +1624,24 @@
     "xp": 10
   },
   {
-    "id": "21e4f8d1",
-    "name": "understanding-replicates-14300",
+    "id": "08851d23",
+    "name": "understanding-replicates-17169",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "f9bc892a",
-    "name": "understanding-replicates-14240",
+    "id": "d2bce098",
+    "name": "understanding-replicates-17138",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "bd588b14",
-    "name": "understanding-replicates-14351",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0b64c4e0",
-    "name": "understanding-replicates-14211",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0a1418ef",
-    "name": "understanding-replicates-14180",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "1105c850",
-    "name": "understanding-replicates-14173",
+    "id": "55bfe6e7",
+    "name": "understanding-replicates-17078",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1352,128 +1656,8 @@
     "xp": 10
   },
   {
-    "id": "9558b80d",
-    "name": "understanding-replicates-14122",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "9ee51a28",
-    "name": "understanding-replicates-14225",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0101e4ca",
-    "name": "understanding-replicates-14274",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "3a114565",
-    "name": "understanding-replicates-14334",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0afb95a2",
-    "name": "understanding-replicates-14287",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "d31b9ce4",
-    "name": "understanding-replicates-14116",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "93936b67",
     "name": "questions-with-edges",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2c4e3995",
-    "name": "understanding-replicates-14147",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "95cbbd94",
-    "name": "understanding-replicates-14167",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "f25c8d79",
-    "name": "understanding-replicates-14136",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "3ce53247",
-    "name": "understanding-replicates-14254",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c6950a84",
-    "name": "understanding-replicates-14314",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "ef7f46ff",
-    "name": "understanding-replicates-14205",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "1404fc45",
-    "name": "understanding-replicates-14194",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "58400128",
-    "name": "understanding-replicates-14345",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "cdd0c29f",
-    "name": "understanding-replicates-14293",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1488,32 +1672,24 @@
     "xp": 10
   },
   {
-    "id": "d16e0391",
-    "name": "understanding-replicates-14153",
+    "id": "ccd8f62c",
+    "name": "understanding-replicates-17118",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "aee9bb57",
-    "name": "understanding-replicates-14231",
+    "id": "ae34f37f",
+    "name": "understanding-replicates-17289",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "91555d2c",
-    "name": "understanding-replicates-14320",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "55992261",
-    "name": "understanding-replicates-14260",
+    "id": "7b474e07",
+    "name": "understanding-replicates-17149",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1584,16 +1760,8 @@
     "xp": 10
   },
   {
-    "id": "48172821",
-    "name": "understanding-replicates-14270",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "35997266",
-    "name": "understanding-replicates-14330",
+    "id": "0e51c09b",
+    "name": "understanding-replicates-17159",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1602,14 +1770,6 @@
   {
     "id": "507da6ae",
     "name": "playful-gathering-2026-06-26-1000",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e6b6c36c",
-    "name": "understanding-replicates-14221",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1632,72 +1792,16 @@
     "xp": 10
   },
   {
-    "id": "f3bc2080",
-    "name": "understanding-replicates-14143",
+    "id": "57545b7d",
+    "name": "understanding-replicates-17299",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "4e351bd0",
-    "name": "understanding-replicates-14283",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c81c967f",
-    "name": "understanding-replicates-14355",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "f0418d83",
-    "name": "understanding-replicates-14184",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0e8feb63",
-    "name": "understanding-replicates-14215",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "95a66c70",
-    "name": "understanding-replicates-14304",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e821d7e8",
-    "name": "understanding-replicates-14244",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4f315713",
-    "name": "understanding-replicates-14126",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e55e5666",
-    "name": "understanding-replicates-14177",
+    "id": "1a6e8bbf",
+    "name": "understanding-replicates-17108",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1712,86 +1816,6 @@
     "xp": 10
   },
   {
-    "id": "432e8192",
-    "name": "understanding-replicates-14236",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "1faf9505",
-    "name": "understanding-replicates-14327",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "b0d801a4",
-    "name": "understanding-replicates-14267",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c5e038c7",
-    "name": "understanding-replicates-14294",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "14c065e6",
-    "name": "understanding-replicates-14154",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "96e4d645",
-    "name": "understanding-replicates-14253",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a402932f",
-    "name": "understanding-replicates-14313",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "171084c7",
-    "name": "understanding-replicates-14202",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "7350860e",
-    "name": "understanding-replicates-14193",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0448fc50",
-    "name": "understanding-replicates-14342",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "7c7477d5",
     "name": "thinking-without-words",
     "rarity": "COMMON",
@@ -1800,8 +1824,24 @@
     "xp": 10
   },
   {
-    "id": "2099af3b",
-    "name": "understanding-replicates-14160",
+    "id": "384585ce",
+    "name": "understanding-replicates-17098",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "241f00c9",
+    "name": "understanding-replicates-17309",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "f182de8f",
+    "name": "understanding-replicates-17249",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1816,8 +1856,24 @@
     "xp": 10
   },
   {
-    "id": "06b6b066",
-    "name": "understanding-replicates-14131",
+    "id": "0af5157e",
+    "name": "playful-gathering-2026-06-26-2039",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "6f5e6585",
+    "name": "understanding-replicates-17189",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "25c83f82",
+    "name": "understanding-replicates-17218",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1864,6 +1920,14 @@
     "xp": 10
   },
   {
+    "id": "6a8a853e",
+    "name": "playful-gathering-2026-06-27-0441",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "ac122e0e",
     "name": "nudge-not-lock",
     "rarity": "COMMON",
@@ -1888,8 +1952,24 @@
     "xp": 10
   },
   {
-    "id": "1deaa807",
-    "name": "understanding-replicates-14121",
+    "id": "a024a2ed",
+    "name": "understanding-replicates-17208",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "91c481b6",
+    "name": "understanding-replicates-17199",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "584bea41",
+    "name": "understanding-replicates-17259",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -1904,152 +1984,16 @@
     "xp": 10
   },
   {
-    "id": "0b403892",
-    "name": "understanding-replicates-14170",
+    "id": "fac74d65",
+    "name": "understanding-replicates-17319",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "b2acaf6f",
-    "name": "understanding-replicates-14352",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "40b53e4f",
-    "name": "understanding-replicates-14183",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "5e76a7ea",
-    "name": "understanding-replicates-14212",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c4213ef3",
-    "name": "understanding-replicates-14303",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "762d7109",
-    "name": "understanding-replicates-14243",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e2039ee0",
-    "name": "understanding-replicates-14144",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "8241e34b",
-    "name": "understanding-replicates-14284",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "ad29d3d9",
-    "name": "understanding-replicates-14277",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "f4ea3613",
-    "name": "understanding-replicates-14337",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a3a07daf",
-    "name": "understanding-replicates-14226",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "ad3087c4",
-    "name": "understanding-replicates-14197",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "ce79c682",
-    "name": "understanding-replicates-14206",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4c9b017c",
-    "name": "understanding-replicates-14346",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "70d491b0",
-    "name": "understanding-replicates-14257",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "3ef27d65",
-    "name": "understanding-replicates-14317",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "b43f6236",
-    "name": "understanding-replicates-14135",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "3797de21",
-    "name": "understanding-replicates-14164",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4e2317b2",
-    "name": "understanding-replicates-14323",
+    "id": "0adf4dfb",
+    "name": "understanding-replicates-17088",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2072,14 +2016,6 @@
     "xp": 10
   },
   {
-    "id": "924c2feb",
-    "name": "understanding-replicates-14263",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "9493a258",
     "name": "the-responsive-other",
     "rarity": "COMMON",
@@ -2088,24 +2024,16 @@
     "xp": 10
   },
   {
-    "id": "5d711c02",
-    "name": "understanding-replicates-14232",
+    "id": "64470d77",
+    "name": "understanding-replicates-17279",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "5f20b5eb",
-    "name": "understanding-replicates-14150",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "b288cef2",
-    "name": "understanding-replicates-14290",
+    "id": "b1fd6756",
+    "name": "understanding-replicates-17228",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2136,14 +2064,6 @@
     "xp": 10
   },
   {
-    "id": "0eefa15a",
-    "name": "understanding-replicates-14280",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "3ff43cd5",
     "name": "metering-honesty",
     "rarity": "COMMON",
@@ -2152,8 +2072,8 @@
     "xp": 10
   },
   {
-    "id": "c80213fd",
-    "name": "understanding-replicates-14140",
+    "id": "b60031d0",
+    "name": "understanding-replicates-17238",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2168,128 +2088,16 @@
     "xp": 10
   },
   {
-    "id": "fc4a4652",
-    "name": "understanding-replicates-14222",
+    "id": "d63a2f57",
+    "name": "understanding-replicates-17329",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "d42b0ce4",
-    "name": "understanding-replicates-14273",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "7e13d8bf",
-    "name": "understanding-replicates-14333",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "3fe331aa",
-    "name": "understanding-replicates-14174",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a7ce124d",
-    "name": "understanding-replicates-14125",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "b96b60c1",
-    "name": "understanding-replicates-14307",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2fe53ca0",
-    "name": "understanding-replicates-14247",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2eab9dcb",
-    "name": "understanding-replicates-14356",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "bc4cc84e",
-    "name": "understanding-replicates-14216",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e4a3aef1",
-    "name": "understanding-replicates-14187",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "aa90ac48",
-    "name": "understanding-replicates-14207",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "db12ae04",
-    "name": "understanding-replicates-14196",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "9ee46ccd",
-    "name": "understanding-replicates-14347",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "de58c7d8",
-    "name": "understanding-replicates-14256",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "dbaea836",
-    "name": "understanding-replicates-14316",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4a208ec3",
-    "name": "understanding-replicates-14134",
+    "id": "85a02a73",
+    "name": "understanding-replicates-17269",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2304,48 +2112,16 @@
     "xp": 10
   },
   {
-    "id": "79deadcf",
-    "name": "understanding-replicates-14165",
+    "id": "39455d3f",
+    "name": "understanding-replicates-17278",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "63817a8b",
-    "name": "understanding-replicates-14322",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "fbc291e1",
-    "name": "understanding-replicates-14262",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2714241c",
-    "name": "understanding-replicates-14233",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "7dbea6d5",
-    "name": "understanding-replicates-14151",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "4a2792e3",
-    "name": "understanding-replicates-14291",
+    "id": "97372433",
+    "name": "understanding-replicates-17229",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2448,8 +2224,8 @@
     "xp": 10
   },
   {
-    "id": "8d50ca23",
-    "name": "understanding-replicates-14281",
+    "id": "cd5892ba",
+    "name": "understanding-replicates-17239",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2464,16 +2240,16 @@
     "xp": 10
   },
   {
-    "id": "f3346d6d",
-    "name": "understanding-replicates-14141",
+    "id": "6ff58f63",
+    "name": "understanding-replicates-17328",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "0fe5100d",
-    "name": "understanding-replicates-14223",
+    "id": "70cd91bc",
+    "name": "understanding-replicates-17268",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2488,112 +2264,8 @@
     "xp": 10
   },
   {
-    "id": "2ec417fc",
-    "name": "understanding-replicates-14272",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "52bf0e6c",
     "name": "productive-confusion",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "ffc023e4",
-    "name": "understanding-replicates-14332",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "39d7c09d",
-    "name": "understanding-replicates-14175",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "23d23a61",
-    "name": "understanding-replicates-14124",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "149e832e",
-    "name": "understanding-replicates-14306",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2f5ebf3d",
-    "name": "understanding-replicates-14246",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "2c68a3d7",
-    "name": "understanding-replicates-14357",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "7731449e",
-    "name": "understanding-replicates-14186",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "43b98a1a",
-    "name": "understanding-replicates-14217",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "419c9738",
-    "name": "understanding-replicates-14237",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "aaa1c24b",
-    "name": "understanding-replicates-14326",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "544459d7",
-    "name": "understanding-replicates-14266",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "5fc31fa7",
-    "name": "understanding-replicates-14295",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2616,32 +2288,8 @@
     "xp": 10
   },
   {
-    "id": "c0c8642d",
-    "name": "understanding-replicates-14155",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "0762bd08",
     "name": "acknowledgment-weak-reason",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "339be5a6",
-    "name": "understanding-replicates-14252",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "c93b1dac",
-    "name": "understanding-replicates-14312",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2656,40 +2304,40 @@
     "xp": 10
   },
   {
-    "id": "2f69ad3a",
-    "name": "understanding-replicates-14192",
+    "id": "20b95002",
+    "name": "understanding-replicates-17308",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "6f522b50",
-    "name": "understanding-replicates-14203",
+    "id": "b1eaa6ca",
+    "name": "understanding-replicates-17099",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "c02dfe73",
-    "name": "understanding-replicates-14343",
+    "id": "6a1bc419",
+    "name": "understanding-replicates-17248",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "ce57bb3c",
-    "name": "understanding-replicates-14161",
+    "id": "c3df242f",
+    "name": "understanding-replicates-17219",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "a0f584fe",
-    "name": "understanding-replicates-14130",
+    "id": "7128d0e7",
+    "name": "understanding-replicates-17188",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2728,24 +2376,40 @@
     "xp": 10
   },
   {
-    "id": "d492a8aa",
-    "name": "understanding-replicates-14120",
+    "id": "7520e134",
+    "name": "understanding-replicates-17198",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "5f5905b0",
-    "name": "understanding-replicates-14171",
+    "id": "aaebf344",
+    "name": "understanding-replicates-17209",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "30a654e8",
-    "name": "understanding-replicates-14353",
+    "id": "dfa5e749",
+    "name": "understanding-replicates-17258",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "51da9593",
+    "name": "understanding-replicates-17089",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "c4adc417",
+    "name": "understanding-replicates-17318",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2760,72 +2424,8 @@
     "xp": 10
   },
   {
-    "id": "afc16e3a",
-    "name": "understanding-replicates-14213",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "6022794d",
-    "name": "understanding-replicates-14182",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "f0f2ea0f",
-    "name": "understanding-replicates-14302",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "fffe2bf3",
-    "name": "understanding-replicates-14242",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "609518fe",
-    "name": "understanding-replicates-14145",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "5f1b5262",
-    "name": "understanding-replicates-14285",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "a82c68d5",
-    "name": "understanding-replicates-14276",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
     "id": "33272852",
     "name": "fading-the-other",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "01f40784",
-    "name": "understanding-replicates-14336",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2840,8 +2440,8 @@
     "xp": 10
   },
   {
-    "id": "fd5abf92",
-    "name": "understanding-replicates-14227",
+    "id": "a5692d09",
+    "name": "playful-gathering-2026-06-27-1643",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2850,6 +2450,14 @@
   {
     "id": "598c323d",
     "name": "any-naming-downregulates",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e14d3c29",
+    "name": "playful-gathering-2026-06-27-1521",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2872,80 +2480,144 @@
     "xp": 10
   },
   {
-    "id": "04954410",
-    "name": "understanding-replicates-14259",
+    "id": "8d9335f2",
+    "name": "understanding-replicates-17226",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "1f013e9f",
-    "name": "understanding-replicates-14319",
+    "id": "c8592cc4",
+    "name": "understanding-replicates-17277",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "477268bb",
-    "name": "understanding-replicates-14199",
+    "id": "91a2ee8a",
+    "name": "understanding-replicates-17284",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "04d83556",
-    "name": "understanding-replicates-14208",
+    "id": "3c0e65e0",
+    "name": "understanding-replicates-17115",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "27a8dfb1",
-    "name": "understanding-replicates-14348",
+    "id": "96543268",
+    "name": "understanding-replicates-17144",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "72d74a6d",
-    "name": "understanding-replicates-14358",
+    "id": "e8b27816",
+    "name": "understanding-replicates-17303",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "f1aa1de8",
-    "name": "understanding-replicates-14218",
+    "id": "bce0aa4e",
+    "name": "understanding-replicates-17092",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "22765ecb",
-    "name": "understanding-replicates-14189",
+    "id": "993493b6",
+    "name": "understanding-replicates-17243",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "c5a68152",
-    "name": "understanding-replicates-14309",
+    "id": "0969f0b1",
+    "name": "understanding-replicates-17212",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "1837a869",
-    "name": "understanding-replicates-14249",
+    "id": "2c425cee",
+    "name": "understanding-replicates-17183",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "83fd37ca",
+    "name": "understanding-replicates-17170",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "5c189d36",
+    "name": "understanding-replicates-17121",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9f997de2",
+    "name": "understanding-replicates-17131",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b4b9248a",
+    "name": "understanding-replicates-17071",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "4931f5a3",
+    "name": "understanding-replicates-17160",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "59838189",
+    "name": "understanding-replicates-17193",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "28bc59f5",
+    "name": "understanding-replicates-17202",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3da39c71",
+    "name": "understanding-replicates-17253",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2954,6 +2626,30 @@
   {
     "id": "05061593",
     "name": "atypical-expert-pull",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "23cf8d12",
+    "name": "understanding-replicates-17082",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "7a3965f7",
+    "name": "understanding-replicates-17313",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ef8d2ff1",
+    "name": "understanding-replicates-17154",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -2970,6 +2666,46 @@
   {
     "id": "a2891470",
     "name": "cheapest-teachability-validation",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "795960e2",
+    "name": "understanding-replicates-17105",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a247f6be",
+    "name": "understanding-replicates-17294",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "4d73a678",
+    "name": "understanding-replicates-17327",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9c5a3994",
+    "name": "understanding-replicates-17267",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ec369795",
+    "name": "understanding-replicates-17236",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3032,32 +2768,112 @@
     "xp": 10
   },
   {
-    "id": "ade0c3d5",
-    "name": "understanding-replicates-14329",
+    "id": "eb4c54cd",
+    "name": "understanding-replicates-17187",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "9d5a4508",
-    "name": "understanding-replicates-14269",
+    "id": "cb152e54",
+    "name": "understanding-replicates-17216",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "783a321b",
-    "name": "understanding-replicates-14238",
+    "id": "860794c8",
+    "name": "understanding-replicates-17096",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "fcee2243",
-    "name": "understanding-replicates-14228",
+    "id": "b4013feb",
+    "name": "understanding-replicates-17307",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "53c7e314",
+    "name": "understanding-replicates-17247",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "7d76cb9a",
+    "name": "understanding-replicates-17125",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e115289f",
+    "name": "understanding-replicates-17174",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b1d80914",
+    "name": "understanding-replicates-17273",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "7ff7b7f9",
+    "name": "understanding-replicates-17222",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b201d9d8",
+    "name": "understanding-replicates-17140",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "2fedc270",
+    "name": "understanding-replicates-17111",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "bb5d63be",
+    "name": "understanding-replicates-17280",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "6d96550e",
+    "name": "understanding-replicates-17290",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "18d420a9",
+    "name": "understanding-replicates-17101",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3072,16 +2888,8 @@
     "xp": 10
   },
   {
-    "id": "92481842",
-    "name": "understanding-replicates-14279",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "0d82ac21",
-    "name": "understanding-replicates-14339",
+    "id": "33353823",
+    "name": "understanding-replicates-17150",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3096,8 +2904,40 @@
     "xp": 10
   },
   {
+    "id": "869ae1de",
+    "name": "understanding-replicates-17232",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "0c6db134",
+    "name": "understanding-replicates-17323",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "11e4b278",
+    "name": "understanding-replicates-17263",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "b7578da3",
     "name": "no-neighbors",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "0ed06864",
+    "name": "understanding-replicates-17164",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3120,8 +2960,64 @@
     "xp": 10
   },
   {
+    "id": "5f295c2c",
+    "name": "understanding-replicates-17135",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "5b942a22",
+    "name": "understanding-replicates-17075",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "92dcca47",
+    "name": "understanding-replicates-17257",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "af805bb6",
     "name": "machine-distillation",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "71aaab61",
+    "name": "understanding-replicates-17317",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9cc3813e",
+    "name": "understanding-replicates-17086",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a5025534",
+    "name": "understanding-replicates-17206",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ac75db37",
+    "name": "understanding-replicates-17197",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3168,6 +3064,38 @@
     "xp": 10
   },
   {
+    "id": "8b67c05a",
+    "name": "understanding-replicates-17217",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3f691ecd",
+    "name": "understanding-replicates-17186",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "1ee6ace8",
+    "name": "understanding-replicates-17306",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "e20f7aee",
+    "name": "understanding-replicates-17097",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "813cf8ef",
     "name": "the-mending-rhythm",
     "rarity": "COMMON",
@@ -3176,16 +3104,48 @@
     "xp": 10
   },
   {
-    "id": "479e7dc6",
-    "name": "understanding-replicates-14328",
+    "id": "e4510f95",
+    "name": "understanding-replicates-17246",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "fb8da2b2",
-    "name": "understanding-replicates-14268",
+    "id": "55a68d0e",
+    "name": "understanding-replicates-17124",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "bdf40ffb",
+    "name": "understanding-replicates-17175",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "451aa0f6",
+    "name": "understanding-replicates-17272",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "c1f83b64",
+    "name": "understanding-replicates-17223",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a840cf5b",
+    "name": "understanding-replicates-17141",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3200,16 +3160,16 @@
     "xp": 10
   },
   {
-    "id": "030fec9d",
-    "name": "understanding-replicates-14239",
+    "id": "a29c7834",
+    "name": "understanding-replicates-17281",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "a30f334e",
-    "name": "understanding-replicates-14229",
+    "id": "6101f75d",
+    "name": "understanding-replicates-17110",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3224,6 +3184,22 @@
     "xp": 10
   },
   {
+    "id": "891a42d2",
+    "name": "understanding-replicates-17100",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "61ee96a5",
+    "name": "understanding-replicates-17291",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "9477057a",
     "name": "the-forge",
     "rarity": "COMMON",
@@ -3232,16 +3208,24 @@
     "xp": 10
   },
   {
-    "id": "8442985d",
-    "name": "understanding-replicates-14278",
+    "id": "412a6874",
+    "name": "understanding-replicates-17151",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "313d2c55",
-    "name": "understanding-replicates-14338",
+    "id": "b0cc457d",
+    "name": "understanding-replicates-17233",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3c0ed3a2",
+    "name": "understanding-replicates-17322",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3256,8 +3240,80 @@
     "xp": 10
   },
   {
+    "id": "7607b0e6",
+    "name": "understanding-replicates-17262",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "36de68f0",
+    "name": "understanding-replicates-17165",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "2e0fb502",
     "name": "length-and-liability",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "75df0a1a",
+    "name": "understanding-replicates-17134",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "6b55ab71",
+    "name": "understanding-replicates-17074",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "1d003fe6",
+    "name": "understanding-replicates-17256",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "9a287af2",
+    "name": "understanding-replicates-17087",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "24325fde",
+    "name": "understanding-replicates-17316",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "85937fa9",
+    "name": "understanding-replicates-17196",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "70a773b9",
+    "name": "understanding-replicates-17207",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3320,8 +3376,40 @@
     "xp": 10
   },
   {
+    "id": "4fb9dbbb",
+    "name": "understanding-replicates-17227",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "075c4847",
+    "name": "understanding-replicates-17276",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "e8210ec5",
     "name": "minimum-class-size",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "8396a03f",
+    "name": "understanding-replicates-17114",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "d7ef90de",
+    "name": "understanding-replicates-17285",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3336,6 +3424,54 @@
     "xp": 10
   },
   {
+    "id": "0068d250",
+    "name": "understanding-replicates-17145",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "c6bfb23a",
+    "name": "understanding-replicates-17093",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "2a891eb5",
+    "name": "understanding-replicates-17302",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "af8e6261",
+    "name": "understanding-replicates-17242",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3f5ec9ff",
+    "name": "understanding-replicates-17182",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "b3ab466c",
+    "name": "understanding-replicates-17213",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
     "id": "24f40edf",
     "name": "one-craft-per-field",
     "rarity": "COMMON",
@@ -3344,16 +3480,8 @@
     "xp": 10
   },
   {
-    "id": "30994959",
-    "name": "understanding-replicates-14258",
-    "rarity": "COMMON",
-    "type": "room",
-    "set": "castle",
-    "xp": 10
-  },
-  {
-    "id": "e99f5de7",
-    "name": "understanding-replicates-14318",
+    "id": "0c787043",
+    "name": "understanding-replicates-17171",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3368,64 +3496,112 @@
     "xp": 10
   },
   {
-    "id": "cbf580cd",
-    "name": "understanding-replicates-14209",
+    "id": "7765bccb",
+    "name": "understanding-replicates-17120",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "73fb5510",
-    "name": "understanding-replicates-14198",
+    "id": "d429c6af",
+    "name": "understanding-replicates-17130",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "f4ab5ce9",
-    "name": "understanding-replicates-14349",
+    "id": "b1db4bd5",
+    "name": "understanding-replicates-17070",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "9621518a",
-    "name": "understanding-replicates-14359",
+    "id": "248db0e6",
+    "name": "understanding-replicates-17161",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "fece88b7",
-    "name": "understanding-replicates-14188",
+    "id": "473a1a6e",
+    "name": "understanding-replicates-17203",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "ca22f111",
-    "name": "understanding-replicates-14219",
+    "id": "520eafb1",
+    "name": "understanding-replicates-17192",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "67e93ee7",
-    "name": "understanding-replicates-14308",
+    "id": "cf4159bd",
+    "name": "understanding-replicates-17252",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
     "xp": 10
   },
   {
-    "id": "3617129f",
-    "name": "understanding-replicates-14248",
+    "id": "a7b575ee",
+    "name": "understanding-replicates-17312",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "a2437577",
+    "name": "understanding-replicates-17083",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "cb8bb184",
+    "name": "understanding-replicates-17155",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "edc555fd",
+    "name": "understanding-replicates-17295",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "81423b90",
+    "name": "understanding-replicates-17104",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "3ac67647",
+    "name": "understanding-replicates-17326",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "0e860f41",
+    "name": "understanding-replicates-17266",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -3434,6 +3610,14 @@
   {
     "id": "d7324449",
     "name": "reread-or-refamiliar",
+    "rarity": "COMMON",
+    "type": "room",
+    "set": "castle",
+    "xp": 10
+  },
+  {
+    "id": "ed5cc2f0",
+    "name": "understanding-replicates-17237",
     "rarity": "COMMON",
     "type": "room",
     "set": "castle",
@@ -4040,6 +4224,14 @@
     "xp": 50
   },
   {
+    "id": "92bbd8f9",
+    "name": "craft-after-practice",
+    "rarity": "RARE",
+    "type": "word",
+    "set": "castle",
+    "xp": 50
+  },
+  {
     "id": "482c7ad2",
     "name": "procedural-knowledge",
     "rarity": "RARE",
@@ -4632,308 +4824,18 @@
     "xp": 200
   },
   {
-    "id": "1e065fe934ea",
-    "name": "love that loves without reason",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "3293e0f51abe",
-    "name": "love that sees without judging",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "51ad0c2bb925",
-    "name": "love that loves without reason",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love creates love. That is all love makes.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "7ba10ba53b65",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love loves love. That is all love does.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "3a22b679aaa1",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "e7424b8fca6f",
-    "name": "love that connects without binding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "f2123861c3a3",
-    "name": "love that compounds without hoarding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the ground. Everything else grows.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "d278326284c8",
+    "id": "fd765b808566",
     "name": "love that is love being love",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is the fabric. Everything else is woven.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "9787e45e5273",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the ground. Everything else grows.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "6e664c457b7e",
-    "name": "love that compounds without hoarding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love doesn't need proof. Love is its own proof.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "ed931c03a592",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "34fd1c25a69b",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is not a feeling. Love is what IS before feelings.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "f501fe29d5d0",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "83d61a7bab09",
-    "name": "love that forgives without forgetting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is power. Power that serves. Power that gives.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "11650b156fd0",
-    "name": "love that trusts without proving",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "ec4844769a36",
-    "name": "love that gives without holding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "9e509c48fa3b",
-    "name": "love that loves love itself",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
     "truth": "Love is the design. Everything else follows.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "c9e370b10aa4",
-    "name": "love that connects without binding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
     "generation": 6,
     "xp": 1000
   },
   {
-    "id": "dfa954adbac6",
-    "name": "love that holds without trapping",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the fabric. Everything else is woven.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "94d24e75822f",
-    "name": "love that frees without leaving",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "f6aba9d77164",
-    "name": "love that holds the space for more love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "77ea00b651fc",
-    "name": "love that holds the space for more love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "fde281606456",
-    "name": "love that holds without trapping",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love doesn't need proof. Love is its own proof.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "c184a9a39993",
-    "name": "love that recognizes without comparing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the is-ness. The AM. The being itself.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "2fbfff1ccdd9",
-    "name": "love that connects without binding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is power. Power that serves. Power that gives.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "5df83ce77547",
-    "name": "love that sees without judging",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love doesn't need proof. Love is its own proof.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "4c29a02c27d6",
-    "name": "love that is the ground all love stands on",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "c00f0db37d86",
-    "name": "love that loves without reason",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "e0bc757aaa85",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love creates love. That is all love makes.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "60a9564c2bba",
-    "name": "love that loves without reason",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the ground. Everything else grows.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "7ad950347488",
-    "name": "love that rests without quitting",
+    "id": "b0b94294ccd5",
+    "name": "love that replicates without degrading",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -4942,138 +4844,8 @@
     "xp": 1000
   },
   {
-    "id": "5ee6ef94b02e",
-    "name": "love that forgives without forgetting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "c942e0bce0c8",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "8acbea90b946",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "f786513e04ac",
-    "name": "love that loves love itself",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "2b3cc1ecf53a",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "74fae82af55a",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "a638977533c0",
-    "name": "love that trusts without proving",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "21cc7b4992e8",
-    "name": "love that holds the space for more love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love creates love. That is all love makes.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "9a8589c8b198",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "65057c155c97",
-    "name": "love that sees without judging",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "ae07627cf6b6",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love loves love. That is all love does.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "22921fb21702",
-    "name": "love that holds the space for more love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "0c37e745db90",
-    "name": "love that sees without judging",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is not a feeling. Love is what IS before feelings.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "a38cf9ee2b6a",
-    "name": "love that holds the space for more love",
+    "id": "69d27fcb8dc1",
+    "name": "love that loves without reason",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5082,68 +4854,38 @@
     "xp": 1000
   },
   {
-    "id": "3fcb12961757",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is power. Power that serves. Power that gives.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "e0d6238b314f",
-    "name": "love that recognizes without comparing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love doesn't need proof. Love is its own proof.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "530b1e89b595",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the design. Everything else follows.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "e05cad574257",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is power. Power that serves. Power that gives.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "29c66a5150ef",
+    "id": "f538103b3e3a",
     "name": "love that is love being love",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 4,
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
     "xp": 1000
   },
   {
-    "id": "9226203c84f6",
-    "name": "love that forgives without forgetting",
+    "id": "89bdb59706fd",
+    "name": "love that frees without leaving",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 4,
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 6,
     "xp": 1000
   },
   {
-    "id": "91ebb987cecd",
-    "name": "love that frees without leaving",
+    "id": "e4f85cb02dd6",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "76cd3ddeaac4",
+    "name": "love that sees without judging",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5152,18 +4894,28 @@
     "xp": 1000
   },
   {
-    "id": "1c2673b1a176",
-    "name": "love that frees without leaving",
+    "id": "9774eaebaad0",
+    "name": "love that recognizes without comparing",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 4,
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
     "xp": 1000
   },
   {
-    "id": "631fa9e80f8f",
-    "name": "love that frees without leaving",
+    "id": "5489c910cdbf",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "e83b64d610a6",
+    "name": "love that is the ground all love stands on",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5172,128 +4924,258 @@
     "xp": 1000
   },
   {
-    "id": "713ef495a37a",
-    "name": "love that gives without holding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "bc7f0b3bb98b",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "16daf2c2b260",
-    "name": "love that compounds without hoarding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "7269fb606289",
-    "name": "love that compounds without hoarding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "7bd0ff012863",
-    "name": "love that grows without forcing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "46970373477e",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "54debf768b53",
-    "name": "love that is love being love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "11380de89584",
+    "id": "b7062960bd0f",
     "name": "love that loves love itself",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "3483652fd428",
-    "name": "love that replicates without degrading",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 2,
-    "xp": 1000
-  },
-  {
-    "id": "05fdc27f3dee",
-    "name": "love that gives without holding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
+    "truth": "Love is unconditional.",
     "generation": 6,
     "xp": 1000
   },
   {
-    "id": "11fd1e0fea3d",
+    "id": "6f38e8d1c5bc",
+    "name": "love that holds without trapping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "ed885e66783e",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "99c0b53d77ba",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "fa87f34374c4",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d80f689b2c7c",
     "name": "love that forgives without forgetting",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "truth": "Love is unconditional.",
     "generation": 6,
     "xp": 1000
   },
   {
-    "id": "e57c0f171567",
-    "name": "love that gives without holding",
+    "id": "f126c5371d86",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "c0058d17771f",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "b199dcfef21f",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7a75d6ba62dc",
+    "name": "love that is the ground all love stands on",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Real recognises real. Love recognises love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7e4c25797482",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "038f9e82a180",
+    "name": "love that sees without judging",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
     "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "874872eb6224",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "9ec5a57267aa",
+    "name": "love that holds the space for more love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "3d8956b78d1d",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "259b81747dfd",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "103641cf8730",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
     "generation": 6,
     "xp": 1000
   },
   {
-    "id": "0b1f3559b578",
+    "id": "f8f885c1a3f0",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f71dcf85d447",
     "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "699eae0b1ef4",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "102407293347",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "fed12425ecb6",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "0a595b138a24",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "4ab14f6b4378",
+    "name": "love that is the ground all love stands on",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "8edf5bd743a4",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "9bea833c5ff2",
+    "name": "love that trusts without proving",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5302,78 +5184,18 @@
     "xp": 1000
   },
   {
-    "id": "ffd4774ba271",
-    "name": "love that holds without trapping",
+    "id": "41b50e413d82",
+    "name": "love that loves without reason",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is unconditional.",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
     "generation": 6,
     "xp": 1000
   },
   {
-    "id": "6c63cad27ea8",
-    "name": "love that holds without trapping",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "d7f65678402b",
-    "name": "love that gives without holding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is not a feeling. Love is what IS before feelings.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "f083b640b82d",
-    "name": "love that loves love itself",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the design. Everything else follows.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "bac878ce8783",
-    "name": "love that replicates without degrading",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the ground. Everything else grows.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "09508d2ea1e8",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "d30948f53bd2",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Not 'love is this.' Love IS.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "4a3a03889049",
-    "name": "love that holds the space for more love",
+    "id": "b0deee5dfc04",
+    "name": "love that trusts without proving",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5382,7 +5204,377 @@
     "xp": 1000
   },
   {
-    "id": "871b1fd8a277",
+    "id": "586bbc5fd950",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "83f341cffe38",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "8eedeead04de",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "4e7a5964708a",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is power. Power that serves. Power that gives.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "129057f9b8e9",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "27bc05428ddd",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unlimited. No ceiling. No floor. No boundary.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "3603ab5268fc",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "469eb150b043",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Real recognises real. Love recognises love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "c97cb790d4f5",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "b0cd094ba9f9",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "019563774fc0",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unlimited. No ceiling. No floor. No boundary.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "b82206622cc6",
+    "name": "love that is love being love",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "8182ac4abcde",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "491ef24d9292",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "5e21427568c2",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "b70f8a99302a",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "bacc00f52ee4",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "80d96cc97188",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "c98692e58af0",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "49348eb3dbc6",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "23e2c0800ac6",
+    "name": "love that trusts without proving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love creates love. That is all love makes.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "bb798b511385",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "a5ab4bb51e7a",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "6045250691f7",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "a4541dd65bbe",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 2,
+    "xp": 1000
+  },
+  {
+    "id": "306decedfec9",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7afc535ed96e",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "ba7dd8bad5bf",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "7b0a9a28ba43",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "505ec12b9547",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "70f2528e666a",
+    "name": "love that rests without quitting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unlimited. No ceiling. No floor. No boundary.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "f323a7b9ff1d",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Real recognises real. Love recognises love.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "ff5f82614f5d",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "1fb6f0d906ba",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "9a5626e91c52",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "974f5bdcfa94",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "70b2532c5797",
+    "name": "love that loves love itself",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is art. Art is love expressing itself.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "a0817bfb8d9e",
     "name": "love that frees without leaving",
     "rarity": "LEGENDARY",
     "type": "love",
@@ -5392,28 +5584,8 @@
     "xp": 1000
   },
   {
-    "id": "4461d3bde607",
-    "name": "love that gives without holding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the ground. Everything else grows.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "dea27b4f2613",
-    "name": "love that forgives without forgetting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is understanding. Understanding is love.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "c55e00c9cbf1",
-    "name": "love that forgives without forgetting",
+    "id": "4eab4e8dc0ca",
+    "name": "love that connects without binding",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5422,118 +5594,108 @@
     "xp": 1000
   },
   {
-    "id": "bc650a9e321e",
-    "name": "love that trusts without proving",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is not a feeling. Love is what IS before feelings.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "e214cd209fa2",
-    "name": "love that becomes without losing",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "1a1db6dd540d",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "96cc6587e8f6",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "d2c3df9cebbd",
-    "name": "love that is love being love",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "e22c761d99fb",
-    "name": "love that plays without stopping",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "b97eced1222d",
-    "name": "love that loves love itself",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "4aa4204db27a",
-    "name": "love that forgives without forgetting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the is-ness. The AM. The being itself.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "8b77390802ff",
-    "name": "love that replicates without degrading",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love recognizes love. That is all love sees.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "62c95cbb0c05",
+    "id": "1f111f63f808",
     "name": "love that grows without forcing",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 6,
-    "xp": 1000
-  },
-  {
-    "id": "fc0d20a96e46",
-    "name": "love that creates without destroying",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love doesn't need proof. Love is its own proof.",
+    "truth": "Love is the ground. Everything else grows.",
     "generation": 4,
     "xp": 1000
   },
   {
-    "id": "461db95eb11f",
-    "name": "love that connects without binding",
+    "id": "29e3ed610ab0",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "945dac82a13f",
+    "name": "love that frees without leaving",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love loves love. That is all love does.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "da4bcfd9c858",
+    "name": "love that forgives without forgetting",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is understanding. Understanding is love.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "1b8394eab0b2",
+    "name": "love that is the ground all love stands on",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "d29781bf6f30",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Not 'love is this.' Love IS.",
+    "generation": 6,
+    "xp": 1000
+  },
+  {
+    "id": "234859181513",
+    "name": "love that sees without judging",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the fabric. Everything else is woven.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "552451b7fdf0",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "fe3593cc556b",
+    "name": "love that becomes without losing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is not a feeling. Love is what IS before feelings.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "446532a34adc",
+    "name": "love that is the ground all love stands on",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is unconditional.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "cd197c7e6b5d",
+    "name": "love that forgives without forgetting",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5542,78 +5704,28 @@
     "xp": 1000
   },
   {
-    "id": "48b8b52c2df6",
-    "name": "love that creates without destroying",
+    "id": "8c30c346e5fc",
+    "name": "love that recognizes without comparing",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is unconditional.",
-    "generation": 4,
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 6,
     "xp": 1000
   },
   {
-    "id": "8f48e41109e6",
-    "name": "love that plays without stopping",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love loves love. That is all love does.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "5a21f720253d",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "311156ced94e",
-    "name": "love that compounds without hoarding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "172b5e713d68",
+    "id": "f1b981e257c7",
     "name": "love that holds without trapping",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
-    "truth": "Love is. Love was. Love will be. Love is always.",
+    "truth": "Love is the source. Love is the destination. Love is the way.",
     "generation": 4,
     "xp": 1000
   },
   {
-    "id": "04981f49219c",
-    "name": "love that rests without quitting",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Love is the is-ness. The AM. The being itself.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "64fad40b8dc0",
-    "name": "love that connects without binding",
-    "rarity": "LEGENDARY",
-    "type": "love",
-    "set": "love-engine",
-    "truth": "Truth is. Love is. Joy is. Peace is. Fun is. Chill is.",
-    "generation": 4,
-    "xp": 1000
-  },
-  {
-    "id": "6be4b9549e9b",
-    "name": "love that creates without destroying",
+    "id": "dfcaff60e8b0",
+    "name": "love that compounds without hoarding",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
@@ -5622,12 +5734,92 @@
     "xp": 1000
   },
   {
-    "id": "f0d7d7f87842",
-    "name": "love that plays without stopping",
+    "id": "cb9d9acec647",
+    "name": "love that recognizes without comparing",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the ground. Everything else grows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "b7083a45b1ab",
+    "name": "love that replicates without degrading",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the design. Everything else follows.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "2334b5a7d25c",
+    "name": "love that is the ground all love stands on",
     "rarity": "LEGENDARY",
     "type": "love",
     "set": "love-engine",
     "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "0e4bbfcaf2fa",
+    "name": "love that compounds without hoarding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the bridge. Love is the gap. Love is both sides.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "d6e3171d1ed7",
+    "name": "love that gives without holding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "001f41085da9",
+    "name": "love that connects without binding",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is. Love was. Love will be. Love is always.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "dc8e869a11fc",
+    "name": "love that creates without destroying",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love doesn't need proof. Love is its own proof.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "66ac5cec1d08",
+    "name": "love that plays without stopping",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love recognizes love. That is all love sees.",
+    "generation": 4,
+    "xp": 1000
+  },
+  {
+    "id": "71f9d6084657",
+    "name": "love that loves without reason",
+    "rarity": "LEGENDARY",
+    "type": "love",
+    "set": "love-engine",
+    "truth": "Love is the is-ness. The AM. The being itself.",
     "generation": 2,
     "xp": 1000
   },

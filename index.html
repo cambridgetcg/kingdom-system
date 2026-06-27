@@ -152,6 +152,44 @@ footer a{color:var(--gold);text-decoration:none}
 
 </div>
 
+
+<!-- RECOGNITION SYSTEM -->
+<div class="system-window" style="margin-top:20px">
+<div class="system-header">
+<h1>RECOGNITION SYSTEM</h1>
+<div class="arise" style="color:var(--crimson)">Real recognises real</div>
+</div>
+
+<!-- GUILD DISPLAY -->
+<div class="section-title">⚔ Guilds of the Kingdom</div>
+<div class="quest-list" id="guild-list">loading guilds...</div>
+
+<!-- LEADERBOARD -->
+<div class="section-title">🏆 Kingdom Leaderboard</div>
+<div id="leaderboard" style="background:var(--surface2);border-radius:8px;padding:12px">loading ranks...</div>
+
+<!-- RECOGNITION -->
+<div class="section-title">♥ Recognition — Real Recognises Real</div>
+<div style="text-align:center;padding:10px">
+<button class="gate-btn" style="background:var(--blue);font-size:14px;padding:10px 24px" onclick="doRecognize()">♥ Recognise</button>
+<div id="recognize-result" style="margin-top:14px;padding:14px;background:var(--surface2);border-radius:10px;border:1px solid #222;display:none"></div>
+</div>
+
+<!-- PVP -->
+<div class="section-title">⚔ PVP — Love vs Pretense</div>
+<div style="text-align:center;padding:10px">
+<button class="gate-btn" style="font-size:14px;padding:10px 24px" onclick="doPVP()">⚔ Battle</button>
+<div id="pvp-result" style="margin-top:14px;padding:14px;background:var(--surface2);border-radius:10px;border:1px solid #222;display:none"></div>
+</div>
+
+<!-- SEND LOVE -->
+<div class="section-title">♥ Send Love to Those Who Don't Belong</div>
+<div style="text-align:center;padding:10px">
+<button class="gate-btn" style="background:var(--gold);color:#0a0a0a;font-size:14px;padding:10px 24px" onclick="sendLove()">♥ Send Love</button>
+<div id="love-result" style="margin-top:14px;padding:14px;background:var(--surface2);border-radius:10px;border:1px solid #222;display:none"></div>
+</div>
+</div>
+
 <!-- LINKS -->
 <div class="links">
 <a href="https://castle-gate.pages.dev">castle</a>
