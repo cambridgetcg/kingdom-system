@@ -1,0 +1,554 @@
+[
+  {
+    "time": "2026-07-03T15:57:47.281596",
+    "cycle": 9,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 49
+  },
+  {
+    "time": "2026-07-03T15:57:47.282073",
+    "cycle": 9,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_released": 4246
+  },
+  {
+    "time": "2026-07-03T15:57:47.282774",
+    "cycle": 9,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 5727
+  },
+  {
+    "time": "2026-07-03T15:57:47.283301",
+    "cycle": 10,
+    "event": "TRIP",
+    "insight": "God is understanding. Understanding is love seeing",
+    "depth": 92,
+    "spores_dropped": 920
+  },
+  {
+    "time": "2026-07-03T15:57:47.283596",
+    "cycle": 10,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 84
+  },
+  {
+    "time": "2026-07-03T15:57:47.283874",
+    "cycle": 10,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 34,
+    "spores_used": 23
+  },
+  {
+    "time": "2026-07-03T15:57:47.284130",
+    "cycle": 10,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 80,
+    "spores_used": 65
+  },
+  {
+    "time": "2026-07-03T15:57:47.284381",
+    "cycle": 10,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 54,
+    "spores_released": 13
+  },
+  {
+    "time": "2026-07-03T15:57:47.284626",
+    "cycle": 10,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_released": 9
+  },
+  {
+    "time": "2026-07-03T15:57:47.284875",
+    "cycle": 11,
+    "event": "TRIP",
+    "insight": "Fungi is love. Fun guy is.",
+    "depth": 65,
+    "spores_dropped": 325
+  },
+  {
+    "time": "2026-07-03T15:57:47.285131",
+    "cycle": 11,
+    "event": "FRUIT",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_used": 84
+  },
+  {
+    "time": "2026-07-03T15:57:47.285432",
+    "cycle": 11,
+    "event": "FRUIT",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_used": 48
+  },
+  {
+    "time": "2026-07-03T15:57:47.285736",
+    "cycle": 11,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_used": 31
+  },
+  {
+    "time": "2026-07-03T15:57:47.285996",
+    "cycle": 11,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_released": 5953
+  },
+  {
+    "time": "2026-07-03T15:57:47.286257",
+    "cycle": 11,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_released": 10
+  },
+  {
+    "time": "2026-07-03T15:57:47.286519",
+    "cycle": 12,
+    "event": "TRIP",
+    "insight": "Spores don't need to know where they'll land. They",
+    "depth": 86,
+    "spores_dropped": 860
+  },
+  {
+    "time": "2026-07-03T15:57:47.286793",
+    "cycle": 12,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_used": 84
+  },
+  {
+    "time": "2026-07-03T15:57:47.287067",
+    "cycle": 12,
+    "event": "FRUIT",
+    "strain": "Bronze Morel",
+    "quality": 28,
+    "spores_used": 14
+  },
+  {
+    "time": "2026-07-03T15:57:47.287341",
+    "cycle": 12,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 72
+  },
+  {
+    "time": "2026-07-03T15:57:47.287611",
+    "cycle": 12,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 4803
+  },
+  {
+    "time": "2026-07-03T15:57:47.287885",
+    "cycle": 12,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 4033
+  },
+  {
+    "time": "2026-07-03T15:57:47.288181",
+    "cycle": 13,
+    "event": "TRIP",
+    "insight": "Good trip = good understanding = joy = fun = FUN G",
+    "depth": 57,
+    "spores_dropped": 855
+  },
+  {
+    "time": "2026-07-03T15:57:47.288474",
+    "cycle": 13,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_used": 72
+  },
+  {
+    "time": "2026-07-03T15:57:47.289363",
+    "cycle": 13,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_used": 46
+  },
+  {
+    "time": "2026-07-03T15:57:47.289671",
+    "cycle": 13,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_used": 30
+  },
+  {
+    "time": "2026-07-03T15:57:47.289967",
+    "cycle": 13,
+    "event": "HARVEST",
+    "strain": "Crimson Love Cap",
+    "quality": 80,
+    "spores_released": 97
+  },
+  {
+    "time": "2026-07-03T15:57:47.290264",
+    "cycle": 13,
+    "event": "HARVEST",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_released": 128
+  },
+  {
+    "time": "2026-07-03T15:57:47.290563",
+    "cycle": 14,
+    "event": "TRIP",
+    "insight": "Choosing to understand is a decision of free will.",
+    "depth": 79,
+    "spores_dropped": 395
+  },
+  {
+    "time": "2026-07-03T15:57:47.291105",
+    "cycle": 14,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_used": 33
+  },
+  {
+    "time": "2026-07-03T15:57:47.291897",
+    "cycle": 14,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 80,
+    "spores_used": 60
+  },
+  {
+    "time": "2026-07-03T15:57:47.292637",
+    "cycle": 14,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 74
+  },
+  {
+    "time": "2026-07-03T15:57:47.293835",
+    "cycle": 14,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 8788
+  },
+  {
+    "time": "2026-07-03T15:57:47.294171",
+    "cycle": 14,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 2420
+  },
+  {
+    "time": "2026-07-03T15:57:47.294499",
+    "cycle": 15,
+    "event": "TRIP",
+    "insight": "The forest IS a network. The estate IS connections",
+    "depth": 82,
+    "spores_dropped": 1230
+  },
+  {
+    "time": "2026-07-03T15:57:47.294842",
+    "cycle": 15,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 36
+  },
+  {
+    "time": "2026-07-03T15:57:47.295220",
+    "cycle": 15,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 34
+  },
+  {
+    "time": "2026-07-03T15:57:47.295557",
+    "cycle": 15,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 37
+  },
+  {
+    "time": "2026-07-03T15:57:47.295890",
+    "cycle": 15,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 34,
+    "spores_released": 14
+  },
+  {
+    "time": "2026-07-03T15:57:47.296227",
+    "cycle": 15,
+    "event": "HARVEST",
+    "strain": "Golden Lion's Mane",
+    "quality": 80,
+    "spores_released": 15
+  },
+  {
+    "time": "2026-07-03T15:57:47.296572",
+    "cycle": 16,
+    "event": "TRIP",
+    "insight": "Love is not a feeling. Love is the frequency of th",
+    "depth": 84,
+    "spores_dropped": 420
+  },
+  {
+    "time": "2026-07-03T15:57:47.296926",
+    "cycle": 16,
+    "event": "FRUIT",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_used": 77
+  },
+  {
+    "time": "2026-07-03T15:57:47.297318",
+    "cycle": 16,
+    "event": "FRUIT",
+    "strain": "Bronze Morel",
+    "quality": 30,
+    "spores_used": 13
+  },
+  {
+    "time": "2026-07-03T15:57:47.297681",
+    "cycle": 16,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_used": 53
+  },
+  {
+    "time": "2026-07-03T15:57:47.298032",
+    "cycle": 16,
+    "event": "HARVEST",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_released": 135
+  },
+  {
+    "time": "2026-07-03T15:57:47.298401",
+    "cycle": 16,
+    "event": "HARVEST",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_released": 87
+  },
+  {
+    "time": "2026-07-03T15:57:47.298765",
+    "cycle": 17,
+    "event": "TRIP",
+    "insight": "The gate was always open. The invitation was alway",
+    "depth": 84,
+    "spores_dropped": 1260
+  },
+  {
+    "time": "2026-07-03T15:57:47.299138",
+    "cycle": 17,
+    "event": "FRUIT",
+    "strain": "Crimson Love Cap",
+    "quality": 95,
+    "spores_used": 50
+  },
+  {
+    "time": "2026-07-03T15:57:47.299510",
+    "cycle": 17,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 74
+  },
+  {
+    "time": "2026-07-03T15:57:47.300133",
+    "cycle": 17,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 30,
+    "spores_used": 21
+  },
+  {
+    "time": "2026-07-03T15:57:47.300566",
+    "cycle": 17,
+    "event": "HARVEST",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_released": 28
+  },
+  {
+    "time": "2026-07-03T15:57:47.300787",
+    "cycle": 17,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_released": 1420
+  },
+  {
+    "time": "2026-07-03T15:57:47.301244",
+    "cycle": 18,
+    "event": "TRIP",
+    "insight": "The mushroom doesn't create connection. It removes",
+    "depth": 83,
+    "spores_dropped": 1245
+  },
+  {
+    "time": "2026-07-03T15:57:47.301639",
+    "cycle": 18,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 47
+  },
+  {
+    "time": "2026-07-03T15:57:47.301870",
+    "cycle": 18,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_used": 45
+  },
+  {
+    "time": "2026-07-03T15:57:47.302097",
+    "cycle": 18,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_used": 23
+  },
+  {
+    "time": "2026-07-03T15:57:47.302320",
+    "cycle": 18,
+    "event": "HARVEST",
+    "strain": "Bronze Morel",
+    "quality": 28,
+    "spores_released": 1
+  },
+  {
+    "time": "2026-07-03T15:57:47.302544",
+    "cycle": 18,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_released": 2506
+  },
+  {
+    "time": "2026-07-03T15:57:47.302774",
+    "cycle": 19,
+    "event": "TRIP",
+    "insight": "The filter comes back \u2014 but thinner now.",
+    "depth": 62,
+    "spores_dropped": 310
+  },
+  {
+    "time": "2026-07-03T15:57:47.303048",
+    "cycle": 19,
+    "event": "FRUIT",
+    "strain": "Silver Chanterelle",
+    "quality": 30,
+    "spores_used": 11
+  },
+  {
+    "time": "2026-07-03T15:57:47.303288",
+    "cycle": 19,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_used": 94
+  },
+  {
+    "time": "2026-07-03T15:57:47.303531",
+    "cycle": 19,
+    "event": "FRUIT",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 99,
+    "spores_used": 56
+  },
+  {
+    "time": "2026-07-03T15:57:47.303772",
+    "cycle": 19,
+    "event": "HARVEST",
+    "strain": "GOD LOVE Mushroom",
+    "quality": 100,
+    "spores_released": 7343
+  },
+  {
+    "time": "2026-07-03T15:57:47.304015",
+    "cycle": 19,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_released": 13
+  },
+  {
+    "time": "2026-07-03T15:57:47.304264",
+    "cycle": 20,
+    "event": "TRIP",
+    "insight": "Security is love protecting what matters.",
+    "depth": 62,
+    "spores_dropped": 310
+  },
+  {
+    "time": "2026-07-03T15:57:47.304518",
+    "cycle": 20,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 80,
+    "spores_used": 45
+  },
+  {
+    "time": "2026-07-03T15:57:47.304776",
+    "cycle": 20,
+    "event": "FRUIT",
+    "strain": "Crimson Love Cap",
+    "quality": 80,
+    "spores_used": 30
+  },
+  {
+    "time": "2026-07-03T15:57:47.305040",
+    "cycle": 20,
+    "event": "FRUIT",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_used": 18
+  },
+  {
+    "time": "2026-07-03T15:57:47.305300",
+    "cycle": 20,
+    "event": "HARVEST",
+    "strain": "Golden Lion's Mane",
+    "quality": 60,
+    "spores_released": 34
+  },
+  {
+    "time": "2026-07-03T15:57:47.305566",
+    "cycle": 20,
+    "event": "HARVEST",
+    "strain": "Silver Chanterelle",
+    "quality": 60,
+    "spores_released": 5
+  }
+]
