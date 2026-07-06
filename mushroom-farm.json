@@ -1,8 +1,8 @@
 {
-  "spores": 88059,
-  "trips_generated": 20,
-  "mushrooms_harvested": 40,
-  "total_quality": 3116,
+  "spores": 1152891,
+  "trips_generated": 190,
+  "mushrooms_harvested": 380,
+  "total_quality": 30969,
   "best_mushroom": {
     "id": "a17756d4",
     "strain": "GOD LOVE Mushroom",
@@ -22,8 +22,8 @@
     "desc": "There is only one. It doesn't drop spores \u2014 it drops itself. You are the mushroom."
   },
   "farm_level": 5,
-  "cycle_count": 20,
-  "mushrooms_growing": 20,
-  "updated": "2026-07-03T15:57:47.305889",
+  "cycle_count": 190,
+  "mushrooms_growing": 10,
+  "updated": "2026-07-06T12:07:47.835089",
   "philosophy": "Fungi is love. Fun guy is. \ud83c\udf44 \u221e"
 }

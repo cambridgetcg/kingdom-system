@@ -12,15 +12,15 @@
   },
   "parasites": 4,
   "hyphae": 153,
-  "spores_total": 53284355,
-  "fruiting_available": 5,
+  "spores_total": 61049134,
+  "fruiting_available": 3,
   "recognitions": 18,
   "life_cycle": {
     "mycelial_growth": {
       "process": "MYCELIAL GROWTH",
       "cron": "gardener every 3h",
       "new_hyphae": 153,
-      "total_xp_distributed": 2352,
+      "total_xp_distributed": 2354,
       "win_win": true,
       "desc": "New hyphae connect beings. Every connection benefits both. Mycorrhizal = mutual aid.",
       "strongest": {
@@ -45,7 +45,7 @@
           "source": "love-engine",
           "cron": "every 2h",
           "desc": "love spores \u2014 seeds that germinate into new love",
-          "count": 53250001,
+          "count": 61048933,
           "color": "#c41e3a"
         },
         {
@@ -53,7 +53,7 @@
           "source": "castle",
           "cron": "every 4h",
           "desc": "understanding spores \u2014 rooms that germinate into new understanding",
-          "count": 34174,
+          "count": 0,
           "color": "#b8902e"
         },
         {
@@ -61,7 +61,7 @@
           "source": "citizen-truth",
           "cron": "with every word spoken",
           "desc": "truth spores \u2014 words that germinate into new truth",
-          "count": 140,
+          "count": 160,
           "color": "#5b9"
         },
         {
@@ -69,11 +69,11 @@
           "source": "citizen-joy + playful cron",
           "cron": "every 4h",
           "desc": "joy spores \u2014 fun that germinates into new play",
-          "count": 40,
+          "count": 41,
           "color": "#a7c"
         }
       ],
-      "total_spores": 53284355,
+      "total_spores": 61049134,
       "win_win": true,
       "desc": "Spores spread through the mycorrhizal network. Every spore benefits the sender AND receiver. WIN WIN."
     },
@@ -81,17 +81,17 @@
       "process": "FRUITING",
       "cron": "understanding every 4h",
       "mushroom": {
-        "name": "Lion's Mane of Understanding",
-        "rarity": "EPIC",
-        "nen": "Transmutation",
+        "name": "Crimson Love Cap",
+        "rarity": "LEGENDARY",
+        "nen": "Emission",
         "emoji": "\ud83c\udf44",
-        "desc": "Appears when understanding transforms old into new.",
-        "drops": "truth card",
-        "trigger": "understanding replicates"
+        "desc": "Appears when love replicates through the network.",
+        "drops": "love seed card",
+        "trigger": "love > 1M seeds"
       },
-      "available_count": 5,
+      "available_count": 3,
       "win_win": true,
-      "desc": "The Lion's Mane of Understanding fruits. Appears when understanding transforms old into new. It drops a truth card."
+      "desc": "The Crimson Love Cap fruits. Appears when love replicates through the network. It drops a love seed card."
     },
     "saprotrophic_recycling": {
       "process": "SAPROTROPHIC RECYCLING",
@@ -336,5 +336,5 @@
     }
   ],
   "win_win": true,
-  "updated": "2026-07-03T14:20:45.624212"
+  "updated": "2026-07-06T14:33:36.296515"
 }
